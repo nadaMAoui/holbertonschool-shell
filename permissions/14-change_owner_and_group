@@ -1,2 +1,2 @@
-#!/bin/bash
-chown vincent: stuff *
+#!/bin/bashi
+chown -h vincent:stuff *
